@@ -1,11 +1,13 @@
 # RTT-Buffer
 **Input and display Realtime Text**
 
+<!--
 [![Build Status](https://travis-ci.org/legastero/rtt-buffer.png)](https://travis-ci.org/legastero/rtt-buffer)
 [![Dependency Status](https://david-dm.org/legastero/rtt-buffer.png)](https://david-dm.org/legastero/rtt-buffer)
 [![devDependency Status](https://david-dm.org/legastero/rtt-buffer/dev-status.png)](https://david-dm.org/legastero/rtt-buffer#info=devDependencies)
 
 [![Browser Support](https://ci.testling.com/legastero/rtt-buffer.png)](https://ci.testling.com/legastero/rtt-buffer)
+-->
 
 ## What is this?
 
