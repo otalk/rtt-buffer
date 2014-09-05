@@ -1,7 +1,7 @@
 {
   "name": "rtt-buffer",
   "description": "Realtime Text Buffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Lance Stout <lance@andyet.net>",
   "bugs": "https://github.com/otalk/rtt-buffer/issues",
   "dependencies": {
