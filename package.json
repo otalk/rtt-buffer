@@ -5,7 +5,7 @@
   "author": "Lance Stout <lance@andyet.net>",
   "bugs": "https://github.com/otalk/rtt-buffer/issues",
   "dependencies": {
-    "ampersand-state": "^4.2.4",
+    "ampersand-state": "^4.3.10",
     "async": "^0.9.0",
     "utf8": "^2.0.0"
   },
