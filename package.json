@@ -6,7 +6,7 @@
   "bugs": "https://github.com/otalk/rtt-buffer/issues",
   "dependencies": {
     "ampersand-state": "^4.3.10",
-    "async": "^1.5.2",
+    "async": "^2.5.0",
     "utf8": "^2.0.0"
   },
   "devDependencies": {
